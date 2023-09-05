@@ -1,0 +1,16 @@
+
+3/9/2023
+
+1. done
+2. done
+3. duch aby keď prepočítava tak aby sa nebugoval
+4. spojazdniť druhého ducha
+5. cancelled
+
+4/9/2023
+
+0. Debugging
+1. Dopísať komentáre
+2. Rozdeliť kód do tried
+3. Dokumentácia
+
